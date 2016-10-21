@@ -1,0 +1,11 @@
+{
+    "name": "meldin/validation",
+    "description": "PHP Validation Class",
+    "authors": [
+        {
+            "name": "Meldin Xavier",
+            "email": "meldinxavier@gmail.com"
+        }
+    ],
+    "require": {}
+}
