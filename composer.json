@@ -1,7 +1,7 @@
 {
     "name": "meldin/validation",
     "description": "PHP Validation Class",
-    "license": "Apache 2.0",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Meldin Xavier",
