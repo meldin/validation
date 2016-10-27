@@ -5,7 +5,9 @@
     "authors": [
         {
             "name": "Meldin Xavier",
-            "email": "meldinxavier@gmail.com"
+            "email": "meldinxavier@gmail.com",
+            "homepage":"http://www.mxtechweb.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "stable",
